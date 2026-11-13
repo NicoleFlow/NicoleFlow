@@ -6,4 +6,4 @@ My Favorite Fluorophore: PC7
 
 Previous Coding Experience: just enough to break things
 
-What I Hope to Get From This Course: the abilty to do some data analysis without 3rd party software
+I started this for a course in R-based data analysis without 3rd party software, it now reaches into way too many aspects of my life.
